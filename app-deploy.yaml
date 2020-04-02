@@ -67,7 +67,7 @@ metadata:
     stack.appsody.dev/id: nodejs-express
     stack.appsody.dev/version: 0.2.10
   name: appsody-frontend-va
-  namespace: va-kabanero
+  namespace: dev-va
 spec:
   env:
     - name: APPSODY_BACKEND_DEFAULT_URL
